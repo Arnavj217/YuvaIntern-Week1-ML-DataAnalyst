@@ -1,0 +1,11 @@
+ID,Risk,Likelihood,Impact,Mitigation
+R1,Portal downtime/access changes,Medium,High,Record access date; preserve permitted downloads; use official alternate endpoints.
+R2,Missing/inconsistent observations,High,High,Profile missingness; never silently convert missing to zero; document imputation.
+R3,Definition mismatch,High,High,Use data dictionary and metadata reconciliation before combining sources.
+R4,Provisional/final revision issue,Medium,High,Tag estimate status and revision date.
+R5,Unit/currency mismatch,Medium,High,Retain original unit and document conversions.
+R6,Real-world outliers,Medium,Medium,Investigate before removal and compare source notes.
+R7,Low granularity,Medium,Medium,Avoid false precision and document data gaps.
+R8,Causality overreach,Medium,High,Treat correlation as non-causal; use appropriate designs.
+R9,Reproducibility failure,Medium,High,"Keep raw/processed separation, source log, code and transformation log."
+R10,Scope creep,Medium,Medium,Freeze Week 1 scope and defer optional modelling.

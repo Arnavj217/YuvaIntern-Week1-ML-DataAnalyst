@@ -1,0 +1,11 @@
+Phase,Workstream,Hours,Output,Milestone
+1,Scope & research framing,3,"Objectives, scope, research questions",M1
+2,Government source research,5,Primary source register,M2
+3,International/research source research,3,Secondary source register,M2
+4,Dataset profiling plan,4,Profiling checklist,M3
+5,KPI & research-question mapping,3,KPI dictionary,M3
+6,Methodology design,5,Methodology document,M4
+7,Risk & quality framework,3,Risk register,M5
+8,Timeline/resource plan,2,Execution plan,M5
+9,Report writing & formatting,4,Final report,M6
+10,QA & packaging,2,Submission package,M6

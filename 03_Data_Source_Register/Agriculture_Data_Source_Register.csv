@@ -1,0 +1,11 @@
+Source,Category,Main data,Granularity,Frequency,Priority,Relevance,Caution,Official URL
+Department of Agriculture & Farmers Welfare — ES&E/DES,Government,"Agriculture Statistics at a Glance, estimates, MSP",India/state/commodity depending report,Annual/periodic,High,Primary official agricultural statistics,Some estimates are provisional/revised,https://desagri.gov.in/
+"DES Area, Production & Yield",Government,"Area, production, yield",State/district/crop/season/year,Annual,High,Core crop-performance data,Check report definitions and coverage,https://data.desagri.gov.in/website/crops-apy-report-web
+data.gov.in Agriculture,Government OGD,Crop production and agriculture datasets/APIs,Varies,Varies,High,Machine-readable public data,Update dates/quality vary,https://data.gov.in/sector/agriculture
+e-NAM,Market,"Min/modal/max price, arrivals, traded quantity",APMC/commodity/date,Daily/periodic,High,Market trends and price/arrival analysis,Coverage differs by market/commodity,https://www.enam.gov.in/
+FAOSTAT,International,"Production, producer prices, production value",Country/commodity/year,Annual,High,International benchmarking,Definitions may differ from India,https://www.fao.org/faostat/
+World Bank WDI,International,"Agriculture value added, land, yields, employment",Country/year,Annual,High,Macro context,Indicator methodology differs,https://data.worldbank.org/
+ICAR,Research,"Annual reports, publications, crop research",National/institution/crop,Periodic,High,Research and technology context,Not primarily a statistical database,https://www.icar.gov.in/
+MoSPI / NSS,Government survey,Agricultural household and socio-economic data,Household/state/report,Survey rounds,High,Farm household context,Not a continuous annual series,https://www.mospi.gov.in/
+Academic literature,Research,Methods and empirical studies,Study-specific,Periodic,Medium,Method selection,Check peer-review/context,Institution/library/DOI search
+Industry publications,Industry,Outlooks and market commentary,Commodity/sector,Periodic,Medium,Context/hypotheses,Validate commercial claims,Publisher-specific
