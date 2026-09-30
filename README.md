@@ -51,6 +51,6 @@ The findings from Week 1 were used to guide **Week 2: Data Collection, Preproces
 
 ## 👨‍💻 Author
 
-**Arav Jain**
+**Arnav Jain**
 Agribusiness Analytics Internship
 NMIMS Shirpur
